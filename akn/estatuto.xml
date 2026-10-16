@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <doc name="estatuto">
+    <meta>
+      <identification source="#ibnp">
+        <FRBRWork>
+          <FRBRthis value="/akn/br/doc/estatuto/ibnp-guapo/2002-03-25/!main"/>
+          <FRBRuri value="/akn/br/doc/estatuto/ibnp-guapo/2002-03-25"/>
+          <FRBRdate date="2002-03-25" name="generation"/>
+          <FRBRauthor href="#ibnp" as="#author"/>
+          <FRBRcountry value="br"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/br/doc/estatuto/ibnp-guapo/2026-10-12/por@mrosc/!main"/>
+          <FRBRuri value="/akn/br/doc/estatuto/ibnp-guapo/2026-10-12/por@mrosc"/>
+          <FRBRdate date="2026-10-12" name="expression"/>
+          <FRBRauthor href="#ibnp" as="#editor"/>
+          <FRBRlanguage language="por"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/br/doc/estatuto/ibnp-guapo/2026-10-12/por@mrosc/akn.xml"/>
+          <FRBRuri value="/akn/br/doc/estatuto/ibnp-guapo/2026-10-12/por@mrosc.akn"/>
+          <FRBRdate date="2026-10-12" name="generation"/>
+          <FRBRauthor href="#ibnp" as="#editor"/>
+          <FRBRformat value="xml"/>
+        </FRBRManifestation>
+      </identification>
+      <publication date="2026-10-12" name="Estatuto" showAs="Estatuto da Igreja Batista Nacional da Paz de Guapó — reformas art. 54 CC, LGPD e MROSC"/>
+      <references source="#ibnp">
+        <TLCOrganization eId="ibnp" href="/ontology/organization/br.ibnp.guapo" showAs="Igreja Batista Nacional da Paz de Guapó"/>
+        <TLCRole eId="author" href="/ontology/role/author" showAs="Autor"/>
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="Editor"/>
+      </references>
+      <proprietary source="#ibnp">
+        <transcriptionNote xmlns="">
+          Reformas: (1) art. 54 do Código Civil (Lei 10.406/2002), com mínimo do art. 57 na exclusão;
+          (2) Lei Geral de Proteção de Dados Pessoais — LGPD (Lei 13.709/2018), Cap. V;
+          (3) Marco Regulatório das Organizações da Sociedade Civil — MROSC (Lei 13.019/2014), Cap. VI;
+          Cap. VII — Disposições Gerais (fecho do estatuto).
+          Instrumento histórico: 25/03/2002 (sources/estatuto-ibn-da-paz-2002.pdf).
+          Organização religiosa nos termos do art. 44, IV e § 1º, do CC.
+        </transcriptionNote>
+      </proprietary>
+    </meta>
+
+    <preface>
+      <p>
+        <docTitle>ESTATUTO</docTitle>
+      </p>
+      <p>
+        <docAuthority>Igreja Batista Nacional da Paz de Guapó</docAuthority>
+      </p>
+      <p>
+        <docDate date="2026-10-12">Reformas de 12 de outubro de 2026 (art. 54 do CC, LGPD e MROSC)</docDate>
+      </p>
+      <p>Base histórica: instrumento de 25 de março de 2002.</p>
+    </preface>
+
+    <body>
+      <chapter eId="chp_1">
+        <num>CAPÍTULO I</num>
+        <heading>DA CONSTITUIÇÃO, FINS E VÍNCULOS</heading>
+
+        <article eId="art_1">
+          <num>Artigo 1º</num>
+          <content>
+            <p>A Igreja Batista Nacional da Paz de Guapó, doravante designada simplesmente igreja, é organização religiosa de direito privado, sem fins econômicos, constituída de número ilimitado de membros e por tempo indeterminado, com sede na Rua Presidente Kennedy, Qd. 21, Lt. 13, Centro, na cidade de Guapó, Estado de Goiás, e tem por fins os constantes do art. 2º, § 4º, deste estatuto.</p>
+          </content>
+        </article>
+
+        <article eId="art_2">
+          <num>Artigo 2º</num>
+          <content>
+            <p>A igreja reconhece a Jesus Cristo como seu único Senhor, tendo a Bíblia Sagrada como única regra de fé, prática e disciplina, e por uma genuína renovação espiritual, crê no batismo com o Espírito Santo e nos dons espirituais, como realidade para a igreja de Cristo no mundo.</p>
+          </content>
+          <paragraph eId="art_2__para_1">
+            <num>§ 1º</num>
+            <content>
+              <p>Como fiel e autêntica interpretação da Bíblia Sagrada, a igreja adota a “Declaração de Fé da CBN (Convenção Batista Nacional)”.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_2__para_2">
+            <num>§ 2º</num>
+            <content>
+              <p>Para efeito denominacional e cooperativo, espiritual e financeiro, na forma regimental, a igreja está vinculada à CBN (Convenção Batista Nacional), respeitando a autonomia das co-irmãs e mantendo relações fraternais com igrejas Batistas de outras convenções, juntas ou alianças; bem como as demais igrejas evangélicas cujos membros professam a Jesus Cristo como único e suficiente Salvador.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_2__para_3">
+            <num>§ 3º</num>
+            <content>
+              <p>A igreja é autônoma em suas decisões e não está sujeita a qualquer outra igreja ou autoridade eclesiástica, reconhecendo apenas a autoridade de nosso Senhor Jesus Cristo, expressa nas Sagradas Escrituras no sentido espiritual; e reconhecendo e respeitando as autoridades constituídas na forma da lei do Estado, conforme manda a Palavra de Deus.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_2__para_4">
+            <num>§ 4º</num>
+            <content>
+              <p>A igreja tem por fim o estabelecimento do Reino de Jesus Cristo e a expansão de seu Evangelho; podendo para tanto estabelecer programas e atividades para execução direta e/ou criar ou instalar departamentos, cooperadores ministeriais e entidades sociais, educacionais, missionárias, congregações e congêneres, no Estado-sede, no Brasil e no exterior, bem como desenvolver atividades e projetos de interesse público e de cunho social — assistenciais, educacionais, culturais, comunitários e afins —, distintos dos fins exclusivamente religiosos, sem prejuízo de sua missão evangélica, nos termos do art. 2º, I, c, da Lei nº 13.019/2014 (MROSC), quando aplicável.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_2__para_5">
+            <num>§ 5º</num>
+            <content>
+              <p>A igreja reger-se-á pelo presente estatuto, pelo regimento interno e resoluções complementares previstas neste, observando a legislação aplicável às organizações religiosas.</p>
+            </content>
+          </paragraph>
+        </article>
+      </chapter>
+
+      <chapter eId="chp_2">
+        <num>CAPÍTULO II</num>
+        <heading>DOS MEMBROS DA IGREJA, SEUS DIREITOS E DEVERES</heading>
+
+        <article eId="art_3">
+          <num>Artigo 3º</num>
+          <content>
+            <p>A igreja compõe-se de pessoas físicas, no gozo de suas faculdades e no exercício de seus direitos e obrigações, que aceitarão livre e conscientemente o seu corpo de doutrina e sua disciplina, sem distinção de qualquer natureza, por ela admitidos na forma deste estatuto.</p>
+          </content>
+          <paragraph eId="art_3__para_1">
+            <num>§ 1º</num>
+            <content>
+              <p>Somente serão aceitos na condição de membro da igreja as pessoas que solicitarem por escrito ou verbalmente à assembleia extraordinária e que preencham todos os requisitos estabelecidos no regimento interno.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_3__para_2">
+            <num>§ 2º</num>
+            <content>
+              <p>Ao membro é assegurado o direito de assistir a todas as reuniões e assembleias da igreja, podendo sugerir, propor, discutir, votar e ser votado, salvo disposição em sentido contrário que conste no regimento interno.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_3__para_3">
+            <num>§ 3º</num>
+            <content>
+              <p>Para que o membro goze dos direitos inclusos no § 2º, deverá comprovar sua real situação como fiel dizimista e ter assiduidade nos trabalhos normais da igreja.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_3__para_4">
+            <num>§ 4º</num>
+            <intro>
+              <p>São deveres dos membros, além de outros previstos no regimento interno:</p>
+            </intro>
+            <point eId="art_3__para_4__point_1">
+              <num>I.</num>
+              <content>
+                <p>guardar a doutrina, a disciplina e a confissão de fé adotadas pela igreja;</p>
+              </content>
+            </point>
+            <point eId="art_3__para_4__point_2">
+              <num>II.</num>
+              <content>
+                <p>contribuir regularmente com dízimos e ofertas para a manutenção da igreja;</p>
+              </content>
+            </point>
+            <point eId="art_3__para_4__point_3">
+              <num>III.</num>
+              <content>
+                <p>frequentar assiduamente os cultos e trabalhos da igreja;</p>
+              </content>
+            </point>
+            <point eId="art_3__para_4__point_4">
+              <num>IV.</num>
+              <content>
+                <p>zelar pelo patrimônio, pelo bom nome e pela unidade da igreja;</p>
+              </content>
+            </point>
+            <point eId="art_3__para_4__point_5">
+              <num>V.</num>
+              <content>
+                <p>cumprir este estatuto, o regimento interno e as deliberações lícitas da assembleia geral.</p>
+              </content>
+            </point>
+          </paragraph>
+          <paragraph eId="art_3__para_5">
+            <num>§ 5º</num>
+            <content>
+              <p>O ingresso e a permanência no quadro de membros implicam o tratamento de dados pessoais e de dados pessoais sensíveis necessários às finalidades da igreja, observados o Capítulo V deste estatuto, a Lei nº 13.709/2018 (LGPD) e a política de privacidade adotada pela diretoria, com informação adequada ao titular.</p>
+            </content>
+          </paragraph>
+        </article>
+
+        <article eId="art_4">
+          <num>Artigo 4º</num>
+          <content>
+            <p>A demissão do quadro de membros dar-se-á a pedido do próprio membro, formulado por escrito à diretoria, que promoverá a baixa do rol e dará ciência à assembleia geral na primeira reunião ordinária seguinte.</p>
+          </content>
+          <paragraph eId="art_4__para_1">
+            <num>Parágrafo único.</num>
+            <content>
+              <p>A demissão implica a perda dos direitos e prerrogativas de membro, sem direito à restituição de dízimos, ofertas ou quaisquer contribuições feitas à igreja.</p>
+            </content>
+          </paragraph>
+        </article>
+
+        <article eId="art_5">
+          <num>Artigo 5º</num>
+          <content>
+            <p>A exclusão do rol de membros somente será admissível havendo justa causa, assim reconhecida em procedimento que assegure ao membro o direito de defesa e de recurso, nos termos deste artigo e do regimento interno.</p>
+          </content>
+          <paragraph eId="art_5__para_1">
+            <num>§ 1º</num>
+            <content>
+              <p>Instaurado o procedimento pela diretoria ou por órgão competente previsto no regimento interno, o membro será notificado por escrito dos fatos que lhe são imputados e terá prazo mínimo de 15 (quinze) dias para apresentar defesa.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_5__para_2">
+            <num>§ 2º</num>
+            <content>
+              <p>Da decisão que aplicar a exclusão caberá recurso à assembleia geral, no prazo de 15 (quinze) dias contados da ciência da decisão, suspendendo-se os efeitos da exclusão até o julgamento do recurso, salvo determinação fundamentada em contrário da assembleia.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_5__para_3">
+            <num>§ 3º</num>
+            <content>
+              <p>A exclusão determinará a perda dos direitos e prerrogativas asseguradas ao membro, sem direito à restituição de suas contribuições com dízimos e ofertas à igreja.</p>
+            </content>
+          </paragraph>
+        </article>
+
+        <article eId="art_6">
+          <num>Artigo 6º</num>
+          <intro>
+            <p>Os absolutamente incapazes de exercer pessoalmente os atos da vida civil, na forma da lei, não poderão ser votados para cargos de diretoria geral e não terão direito de voto, nem serão computados para o quórum e para o resultado, nos seguintes casos:</p>
+          </intro>
+          <point eId="art_6__point_1">
+            <num>I.</num>
+            <content>
+              <p>eleição e demissão do Presidente;</p>
+            </content>
+          </point>
+          <point eId="art_6__point_2">
+            <num>II.</num>
+            <content>
+              <p>aquisição e disposição de bens móveis;</p>
+            </content>
+          </point>
+          <point eId="art_6__point_3">
+            <num>III.</num>
+            <content>
+              <p>reformas estatutárias;</p>
+            </content>
+          </point>
+          <point eId="art_6__point_4">
+            <num>IV.</num>
+            <content>
+              <p>vinculação ou não da igreja em organismos denominacionais;</p>
+            </content>
+          </point>
+          <point eId="art_6__point_5">
+            <num>V.</num>
+            <content>
+              <p>dissolução da igreja.</p>
+            </content>
+          </point>
+        </article>
+      </chapter>
+
+      <chapter eId="chp_3">
+        <num>CAPÍTULO III</num>
+        <heading>DO GOVERNO DA IGREJA E ADMINISTRAÇÃO</heading>
+
+        <article eId="art_7">
+          <num>Artigo 7º</num>
+          <intro>
+            <p>A igreja será dirigida e administrada pelos seguintes órgãos:</p>
+          </intro>
+          <point eId="art_7__point_1">
+            <num>I.</num>
+            <content>
+              <p>Assembleia geral, órgão deliberativo máximo;</p>
+            </content>
+          </point>
+          <point eId="art_7__point_2">
+            <num>II.</num>
+            <content>
+              <p>Diretoria, órgão de gestão administrativa;</p>
+            </content>
+          </point>
+          <point eId="art_7__point_3">
+            <num>III.</num>
+            <content>
+              <p>Corpo Diaconal;</p>
+            </content>
+          </point>
+          <point eId="art_7__point_4">
+            <num>IV.</num>
+            <content>
+              <p>Conselho.</p>
+            </content>
+          </point>
+          <paragraph eId="art_7__para_1">
+            <num>Parágrafo único.</num>
+            <content>
+              <p>O Presidente deve ser um Pastor inscrito, ativo e efetivo da membresia da ORMIBAN (Ordem dos Ministros Batistas Nacionais), seção de Goiás.</p>
+            </content>
+          </paragraph>
+        </article>
+
+        <article eId="art_8">
+          <num>Artigo 8º</num>
+          <content>
+            <p>A assembleia geral é o órgão deliberativo máximo da igreja, sempre presidida pelo Pastor Presidente, competente para tratar soberanamente sobre qualquer assunto de interesse geral, podendo ser ordinária ou extraordinária, convocada previamente com prazo mínimo de 30 (trinta) dias, na forma do regimento interno.</p>
+          </content>
+          <paragraph eId="art_8__para_1">
+            <num>§ 1º</num>
+            <content>
+              <p>O membro da igreja somente poderá exercer o direito de voto se estiver presente quando da realização da votação.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_8__para_2">
+            <num>§ 2º</num>
+            <content>
+              <p>Nenhuma deliberação será tomada por meio de declaração, manifesto ou abaixo-assinado, quer por instrumento particular, quer por instrumento público ou por meio da imprensa.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_8__para_3">
+            <num>§ 3º</num>
+            <intro>
+              <p>Serão tratados necessariamente, em sessão extraordinária da assembleia geral:</p>
+            </intro>
+            <point eId="art_8__para_3__point_1">
+              <num>I.</num>
+              <content>
+                <p>eleição e demissão do Pastor titular e presidente da igreja;</p>
+              </content>
+            </point>
+            <point eId="art_8__para_3__point_2">
+              <num>II.</num>
+              <content>
+                <p>eleições e demissões de outros Pastores, Diáconos e Coordenadores Ministeriais;</p>
+              </content>
+            </point>
+            <point eId="art_8__para_3__point_3">
+              <num>III.</num>
+              <content>
+                <p>aquisição ou venda de seus bens imóveis;</p>
+              </content>
+            </point>
+            <point eId="art_8__para_3__point_4">
+              <num>IV.</num>
+              <content>
+                <p>reforma estatutária;</p>
+              </content>
+            </point>
+            <point eId="art_8__para_3__point_5">
+              <num>V.</num>
+              <content>
+                <p>aprovação ou mudança do regimento interno;</p>
+              </content>
+            </point>
+            <point eId="art_8__para_3__point_6">
+              <num>VI.</num>
+              <content>
+                <p>dissolução da igreja;</p>
+              </content>
+            </point>
+            <point eId="art_8__para_3__point_7">
+              <num>VII.</num>
+              <content>
+                <p>abertura ou encerramento de quaisquer tipos de atividades externas da igreja.</p>
+              </content>
+            </point>
+          </paragraph>
+          <paragraph eId="art_8__para_4">
+            <num>§ 4º</num>
+            <content>
+              <p>O quórum exigido para as deliberações gerais será a maioria absoluta dos membros da igreja habilitados para votar, ressalvados os quóruns especiais previstos neste estatuto.</p>
+            </content>
+          </paragraph>
+        </article>
+
+        <article eId="art_9">
+          <num>Artigo 9º</num>
+          <content>
+            <p>A igreja reunir-se-á bimestralmente em sessão ordinária de sua assembleia geral, para tratar sobre matérias alusivas à sua existência na forma regimental, ou em sessão extraordinária sempre que convocada nos termos regimentais.</p>
+          </content>
+          <paragraph eId="art_9__para_1">
+            <num>§ 1º</num>
+            <content>
+              <p>Ao menos uma vez por ano, em assembleia geral ordinária especialmente indicada na convocação, a diretoria apresentará o relatório de atividades e a prestação de contas do exercício, cabendo à assembleia deliberar sobre sua aprovação ou rejeição, com ou sem ressalvas.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_9__para_2">
+            <num>§ 2º</num>
+            <content>
+              <p>A aprovação das contas não elide a responsabilidade dos administradores por atos ilícitos ou irregulares eventualmente apurados.</p>
+            </content>
+          </paragraph>
+        </article>
+
+        <article eId="art_10">
+          <num>Artigo 10</num>
+          <intro>
+            <p>A gestão administrativa dos negócios da igreja será exercida pela sua diretoria administrativa eleita anualmente, com os seguintes membros:</p>
+          </intro>
+          <point eId="art_10__point_1">
+            <num>a)</num>
+            <content>
+              <p>Presidente;</p>
+            </content>
+          </point>
+          <point eId="art_10__point_2">
+            <num>b)</num>
+            <content>
+              <p>Vice-presidente;</p>
+            </content>
+          </point>
+          <point eId="art_10__point_3">
+            <num>c)</num>
+            <content>
+              <p>1º secretário;</p>
+            </content>
+          </point>
+          <point eId="art_10__point_4">
+            <num>d)</num>
+            <content>
+              <p>2º secretário;</p>
+            </content>
+          </point>
+          <point eId="art_10__point_5">
+            <num>e)</num>
+            <content>
+              <p>1º Tesoureiro;</p>
+            </content>
+          </point>
+          <point eId="art_10__point_6">
+            <num>f)</num>
+            <content>
+              <p>2º Tesoureiro;</p>
+            </content>
+          </point>
+          <point eId="art_10__point_7">
+            <num>g)</num>
+            <content>
+              <p>Diretor do patrimônio.</p>
+            </content>
+          </point>
+          <paragraph eId="art_10__para_1">
+            <num>§ 1º</num>
+            <content>
+              <p>A função do Presidente sempre será exercida pelo pastor titular da igreja, por tempo indeterminado.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_10__para_2">
+            <num>§ 2º</num>
+            <content>
+              <p>O exercício das funções mencionadas no caput deste artigo não será remunerado, excetuada a do Presidente.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_10__para_3">
+            <num>§ 3º</num>
+            <content>
+              <p>A igreja poderá substituir, em qualquer época, qualquer membro auxiliar da diretoria que julgue necessário, respeitando o regimento interno.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_10__para_4">
+            <num>§ 4º</num>
+            <content>
+              <p>Ocorrendo vacância do cargo de Presidente, o vice-presidente assumirá interinamente a igreja e convocará uma assembleia extraordinária, num prazo de 30 (trinta) dias, para eleição de um novo Presidente, nos termos do regimento interno.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_10__para_5">
+            <num>§ 5º</num>
+            <content>
+              <p>A igreja será representada ativa e passivamente, em juízo ou fora dele, pelo seu Presidente e, em seu impedimento ou falta, pelo seu vice-presidente.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_10__para_6">
+            <num>§ 6º</num>
+            <content>
+              <p>A competência da diretoria geral e suas atribuições serão regulamentadas pelo regimento interno.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_10__para_7">
+            <num>§ 7º</num>
+            <content>
+              <p>A igreja tem a responsabilidade de cobrir as despesas do seu Pastor titular em congressos, assembleias da CBN (Convenção Batista Nacional) e da ORMIBAN (Ordem dos Ministros Batistas Nacionais), bem como em cursos de aperfeiçoamento e reciclagem ministerial.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_10__para_8">
+            <num>§ 8º</num>
+            <content>
+              <p>A diretoria prestará contas anualmente à assembleia geral, apresentando balanço, demonstrativos de receitas e despesas e relatório de gestão do exercício, na forma do art. 9º, § 1º.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_10__para_9">
+            <num>§ 9º</num>
+            <content>
+              <p>A forma de gestão administrativa observará este estatuto e o regimento interno, assegurada a aprovação das contas pela assembleia geral.</p>
+            </content>
+          </paragraph>
+        </article>
+      </chapter>
+
+      <chapter eId="chp_4">
+        <num>CAPÍTULO IV</num>
+        <heading>DA RECEITA E DO PATRIMÔNIO</heading>
+
+        <article eId="art_11">
+          <num>Artigo 11</num>
+          <content>
+            <p>As fontes de recursos para a manutenção da igreja serão constituídas dos dízimos, ofertas e doações voluntárias de quaisquer pessoas físicas ou jurídicas, bem como de outros ingressos lícitos compatíveis com seus fins.</p>
+          </content>
+        </article>
+
+        <article eId="art_12">
+          <num>Artigo 12</num>
+          <content>
+            <p>O patrimônio da igreja será constituído através da sua receita, legados, doações, aquisição de bens imóveis e móveis que compõem seu domínio.</p>
+          </content>
+        </article>
+
+        <article eId="art_13">
+          <num>Artigo 13</num>
+          <content>
+            <p>A receita e o patrimônio da igreja serão empregados em programas e atividades relacionadas com a consecução de seus fins, constantes no § 4º do art. 2º do Cap. I, e de conformidade com a legislação vigente.</p>
+          </content>
+        </article>
+      </chapter>
+
+      <chapter eId="chp_5">
+        <num>CAPÍTULO V</num>
+        <heading>DA PROTEÇÃO DE DADOS PESSOAIS</heading>
+
+        <article eId="art_14">
+          <num>Artigo 14</num>
+          <content>
+            <p>A igreja é controladora dos dados pessoais e dos dados pessoais sensíveis que tratar no exercício de suas finalidades religiosas, associativas e administrativas, inclusive os relativos a membros, candidatos a membro, colaboradores, prestadores e demais titulares com os quais se relacione, observando a Lei nº 13.709/2018 (LGPD) e as hipóteses legais de tratamento nela previstas.</p>
+          </content>
+          <paragraph eId="art_14__para_1">
+            <num>Parágrafo único.</num>
+            <content>
+              <p>Reconhece-se que a filiação a organização religiosa e a convicção religiosa constituem dados pessoais sensíveis, cujo tratamento observará as exigências específicas da LGPD.</p>
+            </content>
+          </paragraph>
+        </article>
+
+        <article eId="art_15">
+          <num>Artigo 15</num>
+          <content>
+            <p>O tratamento de dados pessoais pela igreja observará a boa-fé e os princípios da finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas, nos termos do art. 6º da LGPD.</p>
+          </content>
+        </article>
+
+        <article eId="art_16">
+          <num>Artigo 16</num>
+          <content>
+            <p>É assegurado ao titular dos dados, na forma da LGPD, o exercício de seus direitos, inclusive confirmação da existência de tratamento, acesso, correção de dados incompletos, inexatos ou desatualizados, anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com a lei, portabilidade, informação sobre compartilhamentos e revogação do consentimento, quando esta for a hipótese legal aplicável.</p>
+          </content>
+          <paragraph eId="art_16__para_1">
+            <num>Parágrafo único.</num>
+            <content>
+              <p>Os pedidos serão dirigidos ao canal de atendimento indicado pela diretoria na política de privacidade ou, na sua ausência, à própria diretoria, que responderá nos prazos legais.</p>
+            </content>
+          </paragraph>
+        </article>
+
+        <article eId="art_17">
+          <num>Artigo 17</num>
+          <content>
+            <p>O compartilhamento de dados pessoais com terceiros, inclusive com a CBN (Convenção Batista Nacional), a ORMIBAN ou autoridades públicas, somente ocorrerá quando houver base legal e for necessário às finalidades legítimas da igreja ou ao cumprimento de obrigação legal ou regulatória.</p>
+          </content>
+          <paragraph eId="art_17__para_1">
+            <num>Parágrafo único.</num>
+            <content>
+              <p>É vedada a comercialização de dados pessoais sob qualquer forma.</p>
+            </content>
+          </paragraph>
+        </article>
+
+        <article eId="art_18">
+          <num>Artigo 18</num>
+          <content>
+            <p>Compete à diretoria adotar e manter política de privacidade, medidas de segurança técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão, bem como indicar encarregado pelo tratamento de dados pessoais, quando exigido ou recomendável, como canal de comunicação com os titulares e com a Autoridade Nacional de Proteção de Dados (ANPD).</p>
+          </content>
+          <paragraph eId="art_18__para_1">
+            <num>Parágrafo único.</num>
+            <content>
+              <p>O detalhamento operacional do tratamento de dados, inclusive prazos de retenção, procedimentos de atendimento ao titular e eventuais operadores, constará da política de privacidade e, no que couber, do regimento interno.</p>
+            </content>
+          </paragraph>
+        </article>
+      </chapter>
+
+      <chapter eId="chp_6">
+        <num>CAPÍTULO VI</num>
+        <heading>DAS PARCERIAS COM A ADMINISTRAÇÃO PÚBLICA (MROSC)</heading>
+
+        <article eId="art_19">
+          <num>Artigo 19</num>
+          <content>
+            <p>A igreja poderá celebrar com a administração pública, na qualidade de organização da sociedade civil, termos de colaboração, termos de fomento e acordos de cooperação regidos pela Lei nº 13.019/2014 (MROSC), para a execução de atividades ou projetos de interesse público e de cunho social distintos dos fins exclusivamente religiosos, observados os requisitos legais de parceria, inclusive tempo de existência, experiência prévia e capacidade técnica e operacional, quando exigidos.</p>
+          </content>
+        </article>
+
+        <article eId="art_20">
+          <num>Artigo 20</num>
+          <content>
+            <p>A igreja manterá escrituração de acordo com os princípios fundamentais de contabilidade e com as Normas Brasileiras de Contabilidade.</p>
+          </content>
+          <paragraph eId="art_20__para_1">
+            <num>Parágrafo único.</num>
+            <content>
+              <p>Os recursos recebidos em virtude de parcerias com a administração pública serão objeto de controle e contabilização segregados, quando a legislação ou o instrumento de parceria assim o exigir, assegurada a rastreabilidade da aplicação.</p>
+            </content>
+          </paragraph>
+        </article>
+
+        <article eId="art_21">
+          <num>Artigo 21</num>
+          <content>
+            <p>Compete à diretoria, representada pelo Presidente ou, em seu impedimento, pelo vice-presidente, celebrar, executar e encerrar parcerias com a administração pública nos limites deste estatuto, do regimento interno e das deliberações da assembleia geral, observando chamamento público, plano de trabalho, metas, vedações e demais exigências da Lei nº 13.019/2014 e da legislação aplicável.</p>
+          </content>
+        </article>
+
+        <article eId="art_22">
+          <num>Artigo 22</num>
+          <content>
+            <p>A igreja prestará contas e dará transparência às parcerias celebradas com a administração pública na forma da lei e do respectivo instrumento, sem prejuízo da prestação de contas à assembleia geral prevista neste estatuto.</p>
+          </content>
+          <paragraph eId="art_22__para_1">
+            <num>§ 1º</num>
+            <content>
+              <p>Os recursos de parceria serão aplicados integralmente na consecução do objeto pactuado, sendo vedada a distribuição de resultados, sobras, excedentes ou parcelas do patrimônio decorrentes dessas atividades.</p>
+            </content>
+          </paragraph>
+          <paragraph eId="art_22__para_2">
+            <num>§ 2º</num>
+            <content>
+              <p>O detalhamento operacional da gestão de parcerias poderá constar de regimento interno, manuais ou deliberações da diretoria, sempre em conformidade com este estatuto e com a Lei nº 13.019/2014.</p>
+            </content>
+          </paragraph>
+        </article>
+      </chapter>
+
+      <chapter eId="chp_7">
+        <num>CAPÍTULO VII</num>
+        <heading>DAS DISPOSIÇÕES GERAIS</heading>
+
+        <article eId="art_23">
+          <num>Artigo 23</num>
+          <content>
+            <p>A igreja não responderá, nem mesmo subsidiariamente, pelas obrigações contraídas por quaisquer membros, não sendo na forma deste estatuto.</p>
+          </content>
+        </article>
+
+        <article eId="art_24">
+          <num>Artigo 24</num>
+          <content>
+            <p>Em caso de cisão, a receita e o patrimônio passarão a pertencer ao grupo que se mantiver filiado à CBN (Convenção Batista Nacional) e fiel à sua confissão de fé.</p>
+          </content>
+        </article>
+
+        <article eId="art_25">
+          <num>Artigo 25</num>
+          <content>
+            <p>A dissolução da igreja somente poderá ser deliberada nas condições deste estatuto; em caso de dissolução, seus bens serão destinados à CBN (Convenção Batista Nacional – Seção de Goiás).</p>
+          </content>
+        </article>
+
+        <article eId="art_26">
+          <num>Artigo 26</num>
+          <content>
+            <p>A dissolução da igreja só poderá ser efetivada em assembleia geral especial, convocada especificamente para esse fim, com a presença mínima de 2/3 (dois terços) da totalidade de seus membros.</p>
+          </content>
+        </article>
+
+        <article eId="art_27">
+          <num>Artigo 27</num>
+          <content>
+            <p>Os departamentos e entidades criadas pela igreja e os dela inerentes terão regimentos próprios.</p>
+          </content>
+        </article>
+
+        <article eId="art_28">
+          <num>Artigo 28</num>
+          <content>
+            <p>As condições para a alteração das disposições estatutárias são as seguintes: o presente estatuto somente poderá sofrer alterações após três anos de sua publicação e execução, em sessão extraordinária da assembleia geral especialmente convocada para esse fim, com publicação de edital com 30 (trinta) dias de antecedência, presença de 2/3 (dois terços) da membresia e aprovação pelo voto de 50% (cinquenta por cento) destes mais um, observando o art. 6º deste estatuto.</p>
+          </content>
+        </article>
+
+        <article eId="art_29">
+          <num>Artigo 29</num>
+          <content>
+            <p>Este estatuto, na redação reformada, entrará em vigor na data de sua aprovação pela assembleia geral e respectiva averbação no cartório de registro civil de pessoas jurídicas da comarca de Guapó, Estado de Goiás, revogadas as disposições em contrário.</p>
+          </content>
+        </article>
+      </chapter>
+    </body>
+
+    <conclusions>
+      <p>Por ser verdade, firma-se o presente.</p>
+      <p>Guapó, Estado de Goiás.</p>
+      <p>Presidente — Vice-presidente — 1º Secretário(a)</p>
+      <p>(Assinaturas a serem colhidas na assembleia de aprovação da reforma.)</p>
+    </conclusions>
+  </doc>
+</akomaNtoso>
